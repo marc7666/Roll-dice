@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"RollDice","l":"chooseNumbers()"},{"p":"<Unnamed>","c":"RollDice","l":"displayImages(Integer, Integer)","u":"displayImages(java.lang.Integer,java.lang.Integer)"},{"p":"<Unnamed>","c":"RollDice","l":"RollDice()","u":"%3Cinit%3E()"}];updateSearchResults();
