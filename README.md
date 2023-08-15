@@ -1,7 +1,13 @@
 # Roll dice
 
+## JavaDoc
+
+[JavaDoc documentation]()
+
 ## Execution example
 
+![Execution example](https://github.com/marc7666/Roll-dice/blob/master/images/execution%20example.png?raw=true)
+[Execution class example](https://github.com/marc7666/Roll-dice/blob/master/src/Main.java)
 
 
 
