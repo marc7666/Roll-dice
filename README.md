@@ -1,9 +1,5 @@
 # Roll dice
 
-## JavaDoc
-
-[JavaDoc documentation](file:///C:/Users/mcr99/Documents/Personal%20programming%20projects/Roll%20dice/docs/RollDice.html)
-
 ## Execution example
 
 ![Execution example](https://github.com/marc7666/Roll-dice/blob/master/images/execution%20example.png?raw=true)
